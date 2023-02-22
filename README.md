@@ -10,5 +10,5 @@ This repository contains my code for simple artificial neural network built usin
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=white)
 
 This repository contains my first implementation of Artificial nerual network using tensorflow framework 
-where the model classifies customer into those who would leave the bank and those who would stay based on certain input parameters.
+where the model classifies customer into those who might leave the bank and those who might stay based on certain input parameters.
 
