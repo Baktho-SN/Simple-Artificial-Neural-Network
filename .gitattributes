@@ -1,2 +1,2 @@
-* text=auto
 *.ipynb linguist-detectable=false
+*.ipynb linguist-language=python
